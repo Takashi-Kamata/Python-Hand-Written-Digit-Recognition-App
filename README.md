@@ -1,6 +1,6 @@
-# Team 02
+# Python Hand-Written Digit Recognition App
 
-This is Team 02's Python Project code.
+Python Hand-Written Digit Recognition App Project code.
 
 
 ## Installation
