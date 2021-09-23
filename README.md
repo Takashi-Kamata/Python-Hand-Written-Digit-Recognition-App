@@ -24,7 +24,7 @@ Select 'py38':conda environment for this program. Click on the green button on t
 
 
 ## Usage
-<img src="https://github.com/COMPSYS-302-2021/project-1-team_2/blob/ebc06636480b68c21886f0a4ddf1fbf089c114b1/images/mainwindow.png" alt="Main Window" width="400"/>
+<img src="https://github.com/Takashi-Kamata/project-1-team_2/blob/main/images/mainwindow.png" alt="Main Window" width="400"/>
 
 Click and Hold to draw a digit on the canvas.
 
